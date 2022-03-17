@@ -2,6 +2,8 @@
 
 You can check my project at [here](https://hung1503.github.io/Software-Development-Frontend-LUT/)
 
+My Youtube video about the project is [here](https://www.youtube.com/watch?v=RiT0ijhHVKE&ab_channel=Mon)
+
 # Installation 
 To install the application, first you git clone the app into your local folder by
 
